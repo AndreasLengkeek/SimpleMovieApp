@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+#movie {
+    margin: 0 auto;
+    width: 400px;
+}
+
+#movie table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#movie td {
+    border: 1px solid black;
+    padding: 5px;
+    vertical-align: top;
+}
